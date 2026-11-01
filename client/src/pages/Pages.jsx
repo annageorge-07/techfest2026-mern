@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react';
+import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { ArrowRight, Clock3, MapPin, Ticket, Send } from 'lucide-react';
 import PageHeader from '../components/PageHeader';
